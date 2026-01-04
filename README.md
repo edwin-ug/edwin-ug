@@ -13,7 +13,7 @@
 - 💻 Passionate **Software Developer** building real-world solutions  
 - 🌱 Constantly learning and improving my craft  
 - 🤝 Open to collaborations on Android & impactful software projects  
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: edwinkomagum@gmail.com
 
 ---
 
@@ -40,15 +40,6 @@
 <p>
   <img src="https://img.shields.io/badge/SQLite-07405E" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact" height="160" />
 </p>
 
 ---
