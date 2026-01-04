@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edwin Komagum</h1>
 <h3 align="center">Android Enthusiast • Software Developer • Problem Solver</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🚀 About Me
