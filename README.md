@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edwin Komagum</h1>
+<h1 align="center">Hello, I'm Edwin</h1>
 <h3 align="center">Android Enthusiast • Software Developer • Problem Solver</h3>
 
 ---
