@@ -15,13 +15,7 @@ I am a passionate **Software Developer** focused on building efficient, user-cen
 - ⚙️ **Backend Engineering:** Developing scalable APIs using **Java** and **Spring Boot**.
 - 🌱 **Continuous Growth:** Committed to clean architecture and industry best practices.
 - 🤝 **Collaboration:** Open to opportunities in Android Engineering and Full-stack development.
-
----
-
-### 📊 GitHub Analytics
-
-![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwin-ug&show_icons=true&theme=radical)
-![Edwin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-ug&layout=compact&theme=radical)
+- 
 
 ---
 
