@@ -20,10 +20,8 @@ I am a passionate **Software Developer** focused on building efficient, user-cen
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwin-ug&show_icons=true&count_private=true&hide_border=true&theme=radical" height="160" alt="Edwin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-ug&layout=compact&hide_border=true&theme=radical" height="160" alt="Edwin's Top Languages" />
-</div>
+![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwin-ug&show_icons=true&theme=radical)
+![Edwin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-ug&layout=compact&theme=radical)
 
 ---
 
