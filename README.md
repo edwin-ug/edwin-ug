@@ -15,7 +15,6 @@ I am a passionate **Software Developer** focused on building efficient, user-cen
 - ⚙️ **Backend Engineering:** Developing scalable APIs using **Java** and **Spring Boot**.
 - 🌱 **Continuous Growth:** Committed to clean architecture and industry best practices.
 - 🤝 **Collaboration:** Open to opportunities in Android Engineering and Full-stack development.
-- 
 
 ---
 
@@ -48,4 +47,17 @@ I am a passionate **Software Developer** focused on building efficient, user-cen
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="
+  <a href="https://www.linkedin.com/in/edwin-komagum-819566341/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:edwinkomagum@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+256762393301">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <small>© 2026 Edwin Komagum</small>
+</p>
